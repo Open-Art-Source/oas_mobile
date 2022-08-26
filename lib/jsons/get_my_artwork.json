@@ -1,0 +1,354 @@
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "artwork_id": "3a809ca4-79e6-4f34-b2a0-3c473590fb38",
+      "date_created": "Fri, 08 Oct 2021 00:00:00 GMT",
+      "description": "testing",
+      "dimension_unit": "Inch",
+      "height": 1,
+      "image_files_hash": "QmTWtFXGqayAdfzFZeWHXhprtsvDFZJRaYCEhJmWTNkZvn",
+      "length": 1,
+      "listing": [],
+      "medium": "oil",
+      "nft_contract_address": null,
+      "nft_token_id": null,
+      "ownership": [
+        {
+          "artwork_id": "3a809ca4-79e6-4f34-b2a0-3c473590fb38",
+          "begin_date": "Fri, 08 Oct 2021 16:40:27 GMT",
+          "end_date": null,
+          "ownership_id": 36,
+          "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7"
+        }
+      ],
+      "primary_image_file_name": "IMG_0111.HEIC",
+      "short_description": null,
+      "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+      "stx_token_id": "45",
+      "title": "STX testing- list for sale",
+      "width": 1
+    },
+    {
+      "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "artwork_id": "565e021a-cfbf-4b52-9ff2-c2ec02494ccc",
+      "date_created": "Thu, 26 Aug 2021 00:00:00 GMT",
+      "description": "This is the complete description for artwork “not listed to market”.",
+      "dimension_unit": "Inch",
+      "height": 1,
+      "image_files_hash": "QmVo4AEtarzrbwPqQb4upBkus7Pejx9MPcqJPMVzSVEoZr",
+      "length": 3,
+      "listing": [],
+      "medium": "Pencil",
+      "nft_contract_address": null,
+      "nft_token_id": null,
+      "ownership": [
+        {
+          "artwork_id": "565e021a-cfbf-4b52-9ff2-c2ec02494ccc",
+          "begin_date": "Mon, 23 Aug 2021 00:43:05 GMT",
+          "end_date": null,
+          "ownership_id": 19,
+          "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7"
+        }
+      ],
+      "primary_image_file_name": "IMG_0111.HEIC",
+      "short_description": null,
+      "stx_contract_address": null,
+      "stx_token_id": null,
+      "title": "Not Listed To Market",
+      "width": 2
+    },
+    {
+      "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "artwork_id": "6267969d-d471-4820-8203-172b18a0c483",
+      "date_created": "Thu, 26 Aug 2021 00:00:00 GMT",
+      "description": "My cat’s paw must be tasty.",
+      "dimension_unit": "Inch",
+      "height": 5,
+      "image_files_hash": "QmQNQjGUWu14FLqjHBVkxrH2hLXrcwdUxvgAu9LhbzJALz",
+      "length": 5,
+      "listing": [
+        {
+          "active": 1,
+          "artwork_id": "6267969d-d471-4820-8203-172b18a0c483",
+          "listing_id": "6b98c779-9a57-488e-80ff-7590b1ae94c3",
+          "listing_price": [
+            {
+              "amount": 5,
+              "currency": "STX",
+              "listing_id": "6b98c779-9a57-488e-80ff-7590b1ae94c3",
+              "price_id": 21,
+              "status": 2,
+              "tx_hash": "934c01369541b191b4eb8878432013d7d19f995edd8dc5733563ff9ddd24be32"
+            }
+          ],
+          "ownership_id": 23,
+          "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+          "status": 2
+        }
+      ],
+      "medium": "Photo",
+      "nft_contract_address": null,
+      "nft_token_id": null,
+      "ownership": [
+        {
+          "artwork_id": "6267969d-d471-4820-8203-172b18a0c483",
+          "begin_date": "Thu, 26 Aug 2021 22:06:50 GMT",
+          "end_date": "Fri, 15 Oct 2021 20:30:08 GMT",
+          "ownership_id": 23,
+          "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7"
+        },
+        {
+          "artwork_id": "6267969d-d471-4820-8203-172b18a0c483",
+          "begin_date": "Fri, 15 Oct 2021 20:30:08 GMT",
+          "end_date": null,
+          "ownership_id": 40,
+          "person_id": "30cb3b7c-bd43-45a4-9498-0c8571d7ec54"
+        }
+      ],
+      "primary_image_file_name": "IMG_1267.HEIC",
+      "short_description": null,
+      "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+      "stx_token_id": "28",
+      "title": "It Must Be Tasty",
+      "width": 5
+    },
+    {
+      "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "artwork_id": "73f0d09a-67bf-4622-a125-c344ae7212b6",
+      "date_created": "Tue, 21 Sep 2021 00:00:00 GMT",
+      "description": "eddy",
+      "dimension_unit": "Inch",
+      "height": 1,
+      "image_files_hash": "QmVkRxp9Nbxxg1Twyeh37HJhP5nFgBhoNf688T4c2z1DHQ",
+      "length": 3,
+      "listing": [],
+      "medium": "listing test",
+      "nft_contract_address": null,
+      "nft_token_id": null,
+      "ownership": [
+        {
+          "artwork_id": "73f0d09a-67bf-4622-a125-c344ae7212b6",
+          "begin_date": "Tue, 21 Sep 2021 02:45:59 GMT",
+          "end_date": null,
+          "ownership_id": 29,
+          "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7"
+        }
+      ],
+      "primary_image_file_name": "IMG_0005.JPG",
+      "short_description": null,
+      "stx_contract_address": null,
+      "stx_token_id": null,
+      "title": "not mint NFT yet",
+      "width": 2
+    },
+    {
+      "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "artwork_id": "7e53d659-a710-44c5-b422-cdf4028ebd10",
+      "date_created": "Wed, 08 Sep 2021 00:00:00 GMT",
+      "description": "Sanity checking for market page release",
+      "dimension_unit": "Inch",
+      "height": 1,
+      "image_files_hash": "QmQ72XQX2jJ7nu3Tg9GbYDEiT59DCv9BT8uLM1hhq9u9mw",
+      "length": 3,
+      "listing": [
+        {
+          "active": 1,
+          "artwork_id": "7e53d659-a710-44c5-b422-cdf4028ebd10",
+          "listing_id": "aafac022-299d-4735-b6de-c353c5d44a10",
+          "listing_price": [
+            {
+              "amount": 3.5,
+              "currency": "STX",
+              "listing_id": "aafac022-299d-4735-b6de-c353c5d44a10",
+              "price_id": 29,
+              "status": 2,
+              "tx_hash": "b0ceeddbfb3ad90961a1eaec794ca021063a70dc00476a53868720db3b4c3df1"
+            }
+          ],
+          "ownership_id": 26,
+          "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+          "status": 4
+        }
+      ],
+      "medium": "test",
+      "nft_contract_address": null,
+      "nft_token_id": null,
+      "ownership": [
+        {
+          "artwork_id": "7e53d659-a710-44c5-b422-cdf4028ebd10",
+          "begin_date": "Wed, 08 Sep 2021 00:06:20 GMT",
+          "end_date": null,
+          "ownership_id": 26,
+          "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7"
+        }
+      ],
+      "primary_image_file_name": "IMG_0005.JPG",
+      "short_description": null,
+      "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+      "stx_token_id": "43",
+      "title": "update without affect price",
+      "width": 2
+    },
+    {
+      "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "artwork_id": "93e44c54-db63-408d-bc3a-463f674666aa",
+      "date_created": "Thu, 26 Aug 2021 00:00:00 GMT",
+      "description": "This is the complete description for “listed to market”.",
+      "dimension_unit": "Feet",
+      "height": 3,
+      "image_files_hash": "QmPujRSNkPdPeAfPsUPTnF9YpeXa83B4sJCE7Qob6pxeJG",
+      "length": 1,
+      "listing": [
+        {
+          "active": 1,
+          "artwork_id": "93e44c54-db63-408d-bc3a-463f674666aa",
+          "listing_id": "423da49b-b0ef-4714-8e5d-a9f86ee87b55",
+          "listing_price": [
+            {
+              "amount": 3,
+              "currency": "STX",
+              "listing_id": "423da49b-b0ef-4714-8e5d-a9f86ee87b55",
+              "price_id": 18,
+              "status": 2,
+              "tx_hash": "1809b9e1557aa13a10f2dc0f5950f453fdd707d7dd30e8552bc4aa2d4b7bdf4c"
+            }
+          ],
+          "ownership_id": 20,
+          "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+          "status": 2
+        }
+      ],
+      "medium": "Oil",
+      "nft_contract_address": null,
+      "nft_token_id": null,
+      "ownership": [
+        {
+          "artwork_id": "93e44c54-db63-408d-bc3a-463f674666aa",
+          "begin_date": "Mon, 23 Aug 2021 00:57:08 GMT",
+          "end_date": "Fri, 15 Oct 2021 19:43:11 GMT",
+          "ownership_id": 20,
+          "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7"
+        },
+        {
+          "artwork_id": "93e44c54-db63-408d-bc3a-463f674666aa",
+          "begin_date": "Fri, 15 Oct 2021 19:43:11 GMT",
+          "end_date": null,
+          "ownership_id": 38,
+          "person_id": "30cb3b7c-bd43-45a4-9498-0c8571d7ec54"
+        }
+      ],
+      "primary_image_file_name": "IMG_0003.JPG",
+      "short_description": null,
+      "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+      "stx_token_id": "29",
+      "title": "Listed To Market - minted NFT",
+      "width": 2
+    },
+    {
+      "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "artwork_id": "ea79c8f0-f2e1-4dc1-ad53-920fb6fb7d31",
+      "date_created": "Thu, 26 Aug 2021 00:00:00 GMT",
+      "description": "Shopping in Petco and get a cat bed for free.",
+      "dimension_unit": "Inch",
+      "height": 13,
+      "image_files_hash": "QmTHmBPfNZ33wrVoqMSzuFHTBU3UzHuuRqWKLv51X7Z6MC",
+      "length": 13,
+      "listing": [
+        {
+          "active": 1,
+          "artwork_id": "ea79c8f0-f2e1-4dc1-ad53-920fb6fb7d31",
+          "listing_id": "d3cc35d5-5da3-4a58-8b11-e7b203a0d465",
+          "listing_price": [
+            {
+              "amount": 10,
+              "currency": "STX",
+              "listing_id": "d3cc35d5-5da3-4a58-8b11-e7b203a0d465",
+              "price_id": 30,
+              "status": 2,
+              "tx_hash": "08e5e8b20f32ee9eee708857dc9f2212242836d59775fdba0c2dbb3e37263ce5"
+            }
+          ],
+          "ownership_id": 25,
+          "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+          "status": 2
+        }
+      ],
+      "medium": "Photo",
+      "nft_contract_address": null,
+      "nft_token_id": null,
+      "ownership": [
+        {
+          "artwork_id": "ea79c8f0-f2e1-4dc1-ad53-920fb6fb7d31",
+          "begin_date": "Thu, 26 Aug 2021 22:11:08 GMT",
+          "end_date": "Fri, 15 Oct 2021 20:18:13 GMT",
+          "ownership_id": 25,
+          "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7"
+        },
+        {
+          "artwork_id": "ea79c8f0-f2e1-4dc1-ad53-920fb6fb7d31",
+          "begin_date": "Fri, 15 Oct 2021 20:18:13 GMT",
+          "end_date": null,
+          "ownership_id": 39,
+          "person_id": "30cb3b7c-bd43-45a4-9498-0c8571d7ec54"
+        }
+      ],
+      "primary_image_file_name": "IMG_1111.HEIC",
+      "short_description": null,
+      "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+      "stx_token_id": "42",
+      "title": "Cat And Petco - try mint",
+      "width": 13
+    },
+    {
+      "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "artwork_id": "fd840615-962b-4626-844a-0191103c737b",
+      "date_created": "Thu, 26 Aug 2021 00:00:00 GMT",
+      "description": "Classic convertible MG at Long Island.",
+      "dimension_unit": "Inch",
+      "height": 10,
+      "image_files_hash": "Qme9mJyQUgudmkih6arvkE6gcA65fvUQ1x9u2xQ4PVPbdh",
+      "length": 10,
+      "listing": [
+        {
+          "active": 0,
+          "artwork_id": "fd840615-962b-4626-844a-0191103c737b",
+          "listing_id": "7f057d62-2023-483f-8842-86d032809644",
+          "listing_price": [
+            {
+              "amount": 8,
+              "currency": "STX",
+              "listing_id": "7f057d62-2023-483f-8842-86d032809644",
+              "price_id": 22,
+              "status": 4,
+              "tx_hash": "0x74dd56a4e74284bbb81a74c282879c04644406dea9f4ae4f1dbc9c455c56a4e0"
+            }
+          ],
+          "ownership_id": 24,
+          "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+          "status": 0
+        }
+      ],
+      "medium": "Photo",
+      "nft_contract_address": null,
+      "nft_token_id": null,
+      "ownership": [
+        {
+          "artwork_id": "fd840615-962b-4626-844a-0191103c737b",
+          "begin_date": "Thu, 26 Aug 2021 22:09:08 GMT",
+          "end_date": null,
+          "ownership_id": 24,
+          "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7"
+        }
+      ],
+      "primary_image_file_name": "IMG_1394.HEIC",
+      "short_description": null,
+      "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+      "stx_token_id": "30",
+      "title": "Classic Car #1",
+      "width": 10
+    }
+  ]
+}

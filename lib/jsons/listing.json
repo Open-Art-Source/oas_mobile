@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "result": {
+    "active": 1,
+    "artwork_id": "6267969d-d471-4820-8203-172b18a0c483",
+    "listing_id": "6b98c779-9a57-488e-80ff-7590b1ae94c3",
+    "ownership_id": 23,
+    "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+    "status": null
+  }
+}

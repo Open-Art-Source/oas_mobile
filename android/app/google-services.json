@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "49472705047",
+    "project_id": "open-art-source",
+    "storage_bucket": "open-art-source.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49472705047:android:3eed1147662aafe862c252",
+        "android_client_info": {
+          "package_name": "com.oas.oas_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49472705047-r55f0o95mugtjdnm92u4rjlsl3ir7cbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oas.oas_mobile",
+            "certificate_hash": "da16e67ad2d5f25bed62afe75536d412988a640e"
+          }
+        },
+        {
+          "client_id": "49472705047-7hsq7hmna3n8mfv6lsolgpi9v5u6lquc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCZiS4xcedLlmKYf8eDhCgAr6K6GkBeC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49472705047-7hsq7hmna3n8mfv6lsolgpi9v5u6lquc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49472705047-pqifdvkom5vkqa4o74hkcpec05a2ma1e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oas.oasMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

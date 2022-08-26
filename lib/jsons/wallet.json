@@ -1,0 +1,309 @@
+[
+  "seller's wallet - gmail - personID: 19c94a07-90e7-485a-9f90-5a69948b5df7",
+  {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "address": "0x689bB82edE24DE0766af653f2fCDFA645e057b58",
+      "stx_address": "ST2D1GWNE1XBF1FC29TQG0P7C96AZCHT55QTFCZ3G"
+    }
+  },
+  "buyer's wallet - oas.io - personID: 34c7e885-a86b-4d07-b6e2-ff3667b3a72b",
+  {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "address": "0xA2c1F91d480F6FC9860C1ceeDc5EDc57768Bc693",
+      "stx_address": "ST130P24CN553H81PC97DAKKH45C9R3C5AQZHQFXM"
+    }
+  },
+  "mint_NFT result",
+  {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "blockchain": "STX",
+      "contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+      "tx_hash": "0x61eff2c4ef3efa481684ecca457e757e700a843565a7d3edb78f443993b713f1"
+    }
+  },
+  "collect_nft result",
+  {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "artwork_id": "b2081a05-b706-4a02-9de4-89979b5dcf22",
+      "blockchain": "STX",
+      "contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+      "datetime_created": "Tue, 19 Oct 2021 03:38:34 GMT",
+      "status": null,
+      "token_id": "53",
+      "tx_hash": "0x4bd9e1082d5a06285e3249baa09a6ef896f09b3976dd85b34c21e66a61eadae4"
+    }
+  },
+  "check_listing result",
+  {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "active": 1,
+      "artwork_id": "db037dd4-9340-4f25-94fd-e246ba4e8169",
+      "listing_id": "fb55635e-3910-43d9-9c75-bab56550e227",
+      "listing_price": [
+        {
+          "amount": 8.88,
+          "currency": "STX",
+          "listing_id": "fb55635e-3910-43d9-9c75-bab56550e227",
+          "price_id": 39,
+          "status": 1,
+          "tx_hash": "e8a8b321d5c09e080819ac2660d079995cd665ce4c81dc265ad07f5838e571d1"
+        }
+      ],
+      "ownership_id": 54,
+      "person_id": "a481d987-1288-4224-8812-536970cebecc",
+      "status": 0
+    }
+  },
+  "purchase result",
+  {
+    "id": "2021-10-10T17:29:54.406063",
+    "jsonrpc": "2.0",
+    "result": {
+      "buyer_id": "30cb3b7c-bd43-45a4-9498-0c8571d7ec54",
+      "completed_on": null,
+      "confirm_tx_hash": null,
+      "created_on": "Sun, 10 Oct 2021 21:29:57 GMT",
+      "currency": "STX",
+      "listing_id": "423da49b-b0ef-4714-8e5d-a9f86ee87b55",
+      "purchase_id": 3,
+      "seller_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "status": 1,
+      "tx_hash": "0xce44b3c7f9254a1a89a541f31bebf3007fee797128fdde022e0f68d1102904cc"
+    }
+  },
+  "check purchase result",
+  {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "buyer_id": "30cb3b7c-bd43-45a4-9498-0c8571d7ec54",
+      "completed_on": null,
+      "confirm_tx_hash": null,
+      "created_on": "Sun, 10 Oct 2021 21:29:57 GMT",
+      "currency": "STX",
+      "listing_id": "423da49b-b0ef-4714-8e5d-a9f86ee87b55",
+      "purchase_id": 3,
+      "seller_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "status": 2,
+      "tx_hash": "0xce44b3c7f9254a1a89a541f31bebf3007fee797128fdde022e0f68d1102904cc"
+    }
+  },
+  "get purchase result - [{\"as_seller\" : false}]",
+  {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": [
+      {
+        "artwork": {
+          "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+          "artwork_id": "ea79c8f0-f2e1-4dc1-ad53-920fb6fb7d31",
+          "date_created": "Thu, 26 Aug 2021 00:00:00 GMT",
+          "description": "Shopping in Petco and get a cat bed for free.",
+          "dimension_unit": "Inch",
+          "height": 13,
+          "image_files_hash": "QmTHmBPfNZ33wrVoqMSzuFHTBU3UzHuuRqWKLv51X7Z6MC",
+          "length": 13,
+          "medium": "Photo",
+          "nft_contract_address": null,
+          "nft_token_id": null,
+          "primary_image_file_name": "IMG_1111.HEIC",
+          "short_description": null,
+          "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+          "stx_token_id": "42",
+          "title": "Cat And Petco - try mint",
+          "width": 13
+        },
+        "buyer_id": "30cb3b7c-bd43-45a4-9498-0c8571d7ec54",
+        "completed_on": null,
+        "confirm_tx_hash": null,
+        "created_on": "Sun, 10 Oct 2021 14:40:55 GMT",
+        "currency": "STX",
+        "listing_id": "d3cc35d5-5da3-4a58-8b11-e7b203a0d465",
+        "listing_price": 10,
+        "purchase_id": 2,
+        "seller_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "status": 2,
+        "tx_hash": "0xfae4d9650306d64c2c3d0c64c9c1b48fd8219e380b152f6e9102efa477dd490c"
+      },
+      {
+        "artwork": {
+          "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+          "artwork_id": "93e44c54-db63-408d-bc3a-463f674666aa",
+          "date_created": "Thu, 26 Aug 2021 00:00:00 GMT",
+          "description": "This is the complete description for “listed to market”.",
+          "dimension_unit": "Feet",
+          "height": 3,
+          "image_files_hash": "QmPujRSNkPdPeAfPsUPTnF9YpeXa83B4sJCE7Qob6pxeJG",
+          "length": 1,
+          "medium": "Oil",
+          "nft_contract_address": null,
+          "nft_token_id": null,
+          "primary_image_file_name": "IMG_0003.JPG",
+          "short_description": null,
+          "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+          "stx_token_id": "29",
+          "title": "Listed To Market - minted NFT",
+          "width": 2
+        },
+        "buyer_id": "30cb3b7c-bd43-45a4-9498-0c8571d7ec54",
+        "completed_on": null,
+        "confirm_tx_hash": null,
+        "created_on": "Sun, 10 Oct 2021 21:29:57 GMT",
+        "currency": "STX",
+        "listing_id": "423da49b-b0ef-4714-8e5d-a9f86ee87b55",
+        "listing_price": 3,
+        "purchase_id": 3,
+        "seller_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "status": 2,
+        "tx_hash": "0xce44b3c7f9254a1a89a541f31bebf3007fee797128fdde022e0f68d1102904cc"
+      },
+      {
+        "artwork": {
+          "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+          "artwork_id": "6267969d-d471-4820-8203-172b18a0c483",
+          "date_created": "Thu, 26 Aug 2021 00:00:00 GMT",
+          "description": "My cat’s paw must be tasty.",
+          "dimension_unit": "Inch",
+          "height": 5,
+          "image_files_hash": "QmQNQjGUWu14FLqjHBVkxrH2hLXrcwdUxvgAu9LhbzJALz",
+          "length": 5,
+          "medium": "Photo",
+          "nft_contract_address": null,
+          "nft_token_id": null,
+          "primary_image_file_name": "IMG_1267.HEIC",
+          "short_description": null,
+          "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+          "stx_token_id": "28",
+          "title": "It Must Be Tasty",
+          "width": 5
+        },
+        "buyer_id": "30cb3b7c-bd43-45a4-9498-0c8571d7ec54",
+        "completed_on": null,
+        "confirm_tx_hash": null,
+        "created_on": "Mon, 11 Oct 2021 04:21:29 GMT",
+        "currency": "STX",
+        "listing_id": "6b98c779-9a57-488e-80ff-7590b1ae94c3",
+        "listing_price": 5,
+        "purchase_id": 4,
+        "seller_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "status": 1,
+        "tx_hash": "0xa8f94230f85533eba0a9cda90c61b953015e7081bf0bcdd189f3b5a257548050"
+      }
+    ]
+  },
+  "get purchase result - [{\"as_seller\" : true}]",
+  {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": [
+      {
+        "artwork": {
+          "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+          "artwork_id": "ea79c8f0-f2e1-4dc1-ad53-920fb6fb7d31",
+          "date_created": "Thu, 26 Aug 2021 00:00:00 GMT",
+          "description": "Shopping in Petco and get a cat bed for free.",
+          "dimension_unit": "Inch",
+          "height": 13,
+          "image_files_hash": "QmTHmBPfNZ33wrVoqMSzuFHTBU3UzHuuRqWKLv51X7Z6MC",
+          "length": 13,
+          "medium": "Photo",
+          "nft_contract_address": null,
+          "nft_token_id": null,
+          "primary_image_file_name": "IMG_1111.HEIC",
+          "short_description": null,
+          "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+          "stx_token_id": "42",
+          "title": "Cat And Petco - try mint",
+          "width": 13
+        },
+        "buyer_id": "30cb3b7c-bd43-45a4-9498-0c8571d7ec54",
+        "completed_on": null,
+        "confirm_tx_hash": null,
+        "created_on": "Sun, 10 Oct 2021 14:40:55 GMT",
+        "currency": "STX",
+        "listing_id": "d3cc35d5-5da3-4a58-8b11-e7b203a0d465",
+        "listing_price": 10,
+        "purchase_id": 2,
+        "seller_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "status": 2,
+        "tx_hash": "0xfae4d9650306d64c2c3d0c64c9c1b48fd8219e380b152f6e9102efa477dd490c"
+      },
+      {
+        "artwork": {
+          "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+          "artwork_id": "93e44c54-db63-408d-bc3a-463f674666aa",
+          "date_created": "Thu, 26 Aug 2021 00:00:00 GMT",
+          "description": "This is the complete description for “listed to market”.",
+          "dimension_unit": "Feet",
+          "height": 3,
+          "image_files_hash": "QmPujRSNkPdPeAfPsUPTnF9YpeXa83B4sJCE7Qob6pxeJG",
+          "length": 1,
+          "medium": "Oil",
+          "nft_contract_address": null,
+          "nft_token_id": null,
+          "primary_image_file_name": "IMG_0003.JPG",
+          "short_description": null,
+          "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+          "stx_token_id": "29",
+          "title": "Listed To Market - minted NFT",
+          "width": 2
+        },
+        "buyer_id": "30cb3b7c-bd43-45a4-9498-0c8571d7ec54",
+        "completed_on": null,
+        "confirm_tx_hash": null,
+        "created_on": "Sun, 10 Oct 2021 21:29:57 GMT",
+        "currency": "STX",
+        "listing_id": "423da49b-b0ef-4714-8e5d-a9f86ee87b55",
+        "listing_price": 3,
+        "purchase_id": 3,
+        "seller_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "status": 2,
+        "tx_hash": "0xce44b3c7f9254a1a89a541f31bebf3007fee797128fdde022e0f68d1102904cc"
+      }
+    ]
+  },
+  "check_purchase",
+  {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "buyer_id": "30cb3b7c-bd43-45a4-9498-0c8571d7ec54",
+      "completed_on": null,
+      "confirm_tx_hash": null,
+      "created_on": "Mon, 11 Oct 2021 04:21:29 GMT",
+      "currency": "STX",
+      "listing_id": "6b98c779-9a57-488e-80ff-7590b1ae94c3",
+      "purchase_id": 4,
+      "seller_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "status": 2,
+      "tx_hash": "0xa8f94230f85533eba0a9cda90c61b953015e7081bf0bcdd189f3b5a257548050"
+    }
+  },
+  "confirm_purchase",
+  {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "buyer_id": "30cb3b7c-bd43-45a4-9498-0c8571d7ec54",
+      "completed_on": null,
+      "confirm_tx_hash": "0x91d379f0d928892bdabfe8d2f16f7ce63fb2ec6aa14da110bb4fb5025c08cbf3",
+      "created_on": "Sun, 10 Oct 2021 21:29:57 GMT",
+      "currency": "STX",
+      "listing_id": "423da49b-b0ef-4714-8e5d-a9f86ee87b55",
+      "purchase_id": 3,
+      "seller_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "status": 4,
+      "tx_hash": "0xce44b3c7f9254a1a89a541f31bebf3007fee797128fdde022e0f68d1102904cc"
+    }
+  }
+]

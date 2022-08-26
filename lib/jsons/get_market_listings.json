@@ -1,0 +1,251 @@
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "active": 1,
+      "artist": {
+        "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "date_time_started": "Wed, 30 Jun 2021 03:05:51 GMT"
+      },
+      "artwork": {
+        "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "artwork_id": "93e44c54-db63-408d-bc3a-463f674666aa",
+        "date_created": "Thu, 26 Aug 2021 00:00:00 GMT",
+        "description": "This is the complete description for “listed to market”.",
+        "dimension_unit": "Feet",
+        "height": 3,
+        "image_files_hash": "QmPujRSNkPdPeAfPsUPTnF9YpeXa83B4sJCE7Qob6pxeJG",
+        "length": 1,
+        "medium": "Oil",
+        "nft_contract_address": null,
+        "nft_token_id": null,
+        "primary_image_file_name": "IMG_0003.JPG",
+        "short_description": null,
+        "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+        "stx_token_id": "29",
+        "title": "Listed To Market - minted NFT",
+        "width": 2
+      },
+      "artwork_id": "93e44c54-db63-408d-bc3a-463f674666aa",
+      "listing_id": "423da49b-b0ef-4714-8e5d-a9f86ee87b55",
+      "owner": {
+        "custodian_wallet_address": "0x689bB82edE24DE0766af653f2fCDFA645e057b58",
+        "date_time_joined": "Wed, 30 Jun 2021 03:05:51 GMT",
+        "first_name": "Ying",
+        "last_name": "Kang",
+        "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "stx_address": "ST2D1GWNE1XBF1FC29TQG0P7C96AZCHT55QTFCZ3G"
+      },
+      "ownership_id": 20,
+      "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "price": [
+        {
+          "amount": 3,
+          "currency": "STX",
+          "listing_id": "423da49b-b0ef-4714-8e5d-a9f86ee87b55",
+          "price_id": 18,
+          "status": 2,
+          "tx_hash": "1809b9e1557aa13a10f2dc0f5950f453fdd707d7dd30e8552bc4aa2d4b7bdf4c"
+        }
+      ],
+      "status": 1
+    },
+    {
+      "active": 1,
+      "artist": {
+        "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "date_time_started": "Wed, 30 Jun 2021 03:05:51 GMT"
+      },
+      "artwork": {
+        "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "artwork_id": "6267969d-d471-4820-8203-172b18a0c483",
+        "date_created": "Thu, 26 Aug 2021 00:00:00 GMT",
+        "description": "My cat’s paw must be tasty.",
+        "dimension_unit": "Inch",
+        "height": 5,
+        "image_files_hash": "QmQNQjGUWu14FLqjHBVkxrH2hLXrcwdUxvgAu9LhbzJALz",
+        "length": 5,
+        "medium": "Photo",
+        "nft_contract_address": null,
+        "nft_token_id": null,
+        "primary_image_file_name": "IMG_1267.HEIC",
+        "short_description": null,
+        "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+        "stx_token_id": "28",
+        "title": "It Must Be Tasty",
+        "width": 5
+      },
+      "artwork_id": "6267969d-d471-4820-8203-172b18a0c483",
+      "listing_id": "6b98c779-9a57-488e-80ff-7590b1ae94c3",
+      "owner": {
+        "custodian_wallet_address": "0x689bB82edE24DE0766af653f2fCDFA645e057b58",
+        "date_time_joined": "Wed, 30 Jun 2021 03:05:51 GMT",
+        "first_name": "Ying",
+        "last_name": "Kang",
+        "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "stx_address": "ST2D1GWNE1XBF1FC29TQG0P7C96AZCHT55QTFCZ3G"
+      },
+      "ownership_id": 23,
+      "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "price": [
+        {
+          "amount": 5,
+          "currency": "STX",
+          "listing_id": "6b98c779-9a57-488e-80ff-7590b1ae94c3",
+          "price_id": 21,
+          "status": 2,
+          "tx_hash": "934c01369541b191b4eb8878432013d7d19f995edd8dc5733563ff9ddd24be32"
+        }
+      ],
+      "status": 1
+    },
+    {
+      "active": 1,
+      "artist": {
+        "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "date_time_started": "Wed, 30 Jun 2021 03:05:51 GMT"
+      },
+      "artwork": {
+        "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "artwork_id": "7e53d659-a710-44c5-b422-cdf4028ebd10",
+        "date_created": "Wed, 08 Sep 2021 00:00:00 GMT",
+        "description": "Sanity checking for market page release",
+        "dimension_unit": "Inch",
+        "height": 1,
+        "image_files_hash": "QmQ72XQX2jJ7nu3Tg9GbYDEiT59DCv9BT8uLM1hhq9u9mw",
+        "length": 3,
+        "medium": "test",
+        "nft_contract_address": null,
+        "nft_token_id": null,
+        "primary_image_file_name": "IMG_0005.JPG",
+        "short_description": null,
+        "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+        "stx_token_id": "43",
+        "title": "update without affect price",
+        "width": 2
+      },
+      "artwork_id": "7e53d659-a710-44c5-b422-cdf4028ebd10",
+      "listing_id": "aafac022-299d-4735-b6de-c353c5d44a10",
+      "owner": {
+        "custodian_wallet_address": "0x689bB82edE24DE0766af653f2fCDFA645e057b58",
+        "date_time_joined": "Wed, 30 Jun 2021 03:05:51 GMT",
+        "first_name": "Ying",
+        "last_name": "Kang",
+        "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "stx_address": "ST2D1GWNE1XBF1FC29TQG0P7C96AZCHT55QTFCZ3G"
+      },
+      "ownership_id": 26,
+      "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "price": [
+        {
+          "amount": 3.5,
+          "currency": "STX",
+          "listing_id": "aafac022-299d-4735-b6de-c353c5d44a10",
+          "price_id": 29,
+          "status": 1,
+          "tx_hash": "b0ceeddbfb3ad90961a1eaec794ca021063a70dc00476a53868720db3b4c3df1"
+        }
+      ],
+      "status": 0
+    },
+    {
+      "active": 1,
+      "artist": {
+        "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "date_time_started": "Wed, 30 Jun 2021 03:05:51 GMT"
+      },
+      "artwork": {
+        "artist_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "artwork_id": "ea79c8f0-f2e1-4dc1-ad53-920fb6fb7d31",
+        "date_created": "Thu, 26 Aug 2021 00:00:00 GMT",
+        "description": "Shopping in Petco and get a cat bed for free.",
+        "dimension_unit": "Inch",
+        "height": 13,
+        "image_files_hash": "QmTHmBPfNZ33wrVoqMSzuFHTBU3UzHuuRqWKLv51X7Z6MC",
+        "length": 13,
+        "medium": "Photo",
+        "nft_contract_address": null,
+        "nft_token_id": null,
+        "primary_image_file_name": "IMG_1111.HEIC",
+        "short_description": null,
+        "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+        "stx_token_id": "42",
+        "title": "Cat And Petco - try mint",
+        "width": 13
+      },
+      "artwork_id": "ea79c8f0-f2e1-4dc1-ad53-920fb6fb7d31",
+      "listing_id": "d3cc35d5-5da3-4a58-8b11-e7b203a0d465",
+      "owner": {
+        "custodian_wallet_address": "0x689bB82edE24DE0766af653f2fCDFA645e057b58",
+        "date_time_joined": "Wed, 30 Jun 2021 03:05:51 GMT",
+        "first_name": "Ying",
+        "last_name": "Kang",
+        "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+        "stx_address": "ST2D1GWNE1XBF1FC29TQG0P7C96AZCHT55QTFCZ3G"
+      },
+      "ownership_id": 25,
+      "person_id": "19c94a07-90e7-485a-9f90-5a69948b5df7",
+      "price": [
+        {
+          "amount": 10,
+          "currency": "STX",
+          "listing_id": "d3cc35d5-5da3-4a58-8b11-e7b203a0d465",
+          "price_id": 30,
+          "status": 2,
+          "tx_hash": "08e5e8b20f32ee9eee708857dc9f2212242836d59775fdba0c2dbb3e37263ce5"
+        }
+      ],
+      "status": 1
+    },
+    {
+      "active": 1,
+      "artist": {
+        "artist_id": "8a8c3534-1c28-4077-94c3-2fd33786c2da",
+        "date_time_started": "Sat, 29 May 2021 15:37:07 GMT"
+      },
+      "artwork": {
+        "artist_id": "8a8c3534-1c28-4077-94c3-2fd33786c2da",
+        "artwork_id": "c80b4411-fc6b-4c9c-aeb1-b2290b1500cd",
+        "date_created": "Tue, 17 Aug 2021 00:00:00 GMT",
+        "description": null,
+        "dimension_unit": "Inch",
+        "height": null,
+        "image_files_hash": "QmQbmKSqucqCzFAKwLbfydGUfDX8E4EtdBcNeAtDpiyrwL",
+        "length": 15,
+        "medium": "oilpaint",
+        "nft_contract_address": null,
+        "nft_token_id": null,
+        "primary_image_file_name": "IMG_0458.JPG",
+        "short_description": null,
+        "stx_contract_address": "ST3KG5NBY7ABBT1879Q0MCPK3M7YJZHFWJBF9KHKY.Artie",
+        "stx_token_id": "44",
+        "title": "another bear",
+        "width": null
+      },
+      "artwork_id": "c80b4411-fc6b-4c9c-aeb1-b2290b1500cd",
+      "listing_id": "a1a21451-e6f8-47bd-b52d-ed87b6a1c379",
+      "owner": {
+        "custodian_wallet_address": "0x38d42a59186A62f1d39B36c79e7665a414F8AC8A",
+        "date_time_joined": "Sat, 29 May 2021 15:37:07 GMT",
+        "first_name": "gary",
+        "last_name": "ng",
+        "person_id": "8a8c3534-1c28-4077-94c3-2fd33786c2da",
+        "stx_address": "ST3YFA4M4VF3H663S5083R4C4JT9SP582A94GHHAH"
+      },
+      "ownership_id": 37,
+      "person_id": "8a8c3534-1c28-4077-94c3-2fd33786c2da",
+      "price": [
+        {
+          "amount": 1.1,
+          "currency": "STX",
+          "listing_id": "a1a21451-e6f8-47bd-b52d-ed87b6a1c379",
+          "price_id": 32,
+          "status": 2,
+          "tx_hash": "795a39a911e170bb48d7d4b651b11cb86055dd192c84ce1695f3fca2010a6a50"
+        }
+      ],
+      "status": 1
+    }
+  ]
+}
